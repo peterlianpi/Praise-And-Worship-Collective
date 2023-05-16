@@ -1,5 +1,6 @@
 Title:26 - LAM-ET BEI KA OM LAI, LUNGMUANNA HONG TUNG
 
+Verse
 .m ,r |d .d :d .d /d :- .s, |l, .d :r .d /d :-
 .m |s .s :s .m /m :- .m |m .d :r .m /r :-
 .m ,r |d .d :d .d /m :- .s, |l, .d :r .d /d :-

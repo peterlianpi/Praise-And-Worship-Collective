@@ -1,5 +1,6 @@
 Title:101 - SI NAWLNO DING
 
+Verse
 :m,r.m |d .d :d.d /l,.s, :s, .l,t, :d.d :r .r /m .s
 :s.l |s :- / .s :m .d |r :- /
 :m,r.m |d .d :d.d /l,.s, :s, .l,t, :d.d :r .r /m .s

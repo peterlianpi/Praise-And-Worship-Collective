@@ -1,5 +1,6 @@
 Title:67 - ITNA SISAN LUANGIN
 
+Verse
 .d |m .m :m .r /d :- .m |r :d .d /l,.s, :-
 .s, |d :d .d /m :- .m |r.r :r .m /r :-
 .m |s :l .s /m.d : .m |r :d .d /l,.s, :-

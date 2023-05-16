@@ -1,5 +1,6 @@
 Title:109 - TOPA HONG PAI KIK CIANG
 
+Verse
 |d :r /m.m :- |m:-.r /m.d :- |d :d /r :-.d |d :-.r /m :
 |d :m /s.s :- |s :-.s /s :-.m|f :m /r :- 
 |d :r /m.m :- |m:-.r /m.d :- |d :d /r :-.d |d :-.r /m :

@@ -1,5 +1,6 @@
 Title:10 - CARMEL MUAL
 
+Verse
  .d:m.m |d ,d .m :d .s, /d .d :r .r |m : - / .d :m .s
  |s :s .l /s .m :r .d |r : - / .d :m .m
  |d ,d .m :d .s, /d .d :r .r |m : - / .d :m .s

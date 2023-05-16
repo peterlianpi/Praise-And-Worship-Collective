@@ -1,5 +1,6 @@
 Title:48 - HONG LUNGDAM SAK HI
 
+Verse
 :d .m |s .s : .s /l :l .l |s .s :m .r /d 
 :d .m |s .s : .s /l :l |s :- /- 
 :d .m |s .s :s .s /l :l .l |s__.s :m__ .r /d

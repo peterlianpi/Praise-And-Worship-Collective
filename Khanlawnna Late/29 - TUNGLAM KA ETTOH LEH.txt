@@ -1,5 +1,6 @@
 Title:29 - TUNGLAM KA ETTOH LEH
 
+Verse
  .m |d .d :m .s /l__.s :- .m |r .d :r .d /m :-
  .d |m .s :s .l /s :- .m |r .d :r .d /m :-
 ,s .s |l .l :l .s /f :- .l |s .s :s .s /m .d :

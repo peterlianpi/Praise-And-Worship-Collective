@@ -1,5 +1,6 @@
 Title:8 - TOPA TAWH TONKHAWM LEENG NUAM EE
 
+Verse
  :s, .l, |d .d :d .d /m .m :- .d |r .d :d .l, /s,
  :s, .l, |d .d :- .d /m .m :r .d |r :- /-
  :s, .l, |d .d :d .d /m .m :- .d |r .d :d .l, /s,

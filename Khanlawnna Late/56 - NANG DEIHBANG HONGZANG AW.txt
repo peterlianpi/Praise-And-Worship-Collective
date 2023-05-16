@@ -1,5 +1,6 @@
 Title:56 - NANG DEIHBANG HONGZANG AW
 
+Verse
 :s, .l, |d :- .l, :d .d /l,.s, : :d .d |m :- .r :m .m /r.d :-
 :d .m |s :- .s :s .f /m.d : :m.m |f :- .m :r .d /r :-
 :s .s |m.d :- .r :m .m /r ,d.m : :m.m |r .d :- .d :d .r /d :-

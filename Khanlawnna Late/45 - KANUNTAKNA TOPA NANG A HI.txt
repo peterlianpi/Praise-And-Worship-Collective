@@ -1,5 +1,6 @@
 Title:45 - KANUNTAKNA TOPA NANG A HI
 
+Verse
  .s, |m :r .m /r .d :d .l, |s, :- /- :
  .s, |d :d .d /m .m :r .d |r :- /- :
  .s, |m :r .m /r .d :d .l, |s, :d .d /m :-

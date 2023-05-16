@@ -1,5 +1,6 @@
 Title:44 - TOPA’ VANG KIAMLO
 
+Verse
 .d |d :d .d /d :- .d |m :m .m /m :-
 .m |d :- .d /d :d .d |l,__.s, :- /- :
 .s, |d :d .d /d :- .d |m :m .m /m :-

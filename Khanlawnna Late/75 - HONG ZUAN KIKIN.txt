@@ -1,5 +1,6 @@
 Title:75 - HONG ZUAN KIKIN
 
+Verse
  |s .s :s ,s .s /s :- |d .d :d ,r .m /m :-
  |d .l :l ,l .l /s :- |d .l, :d .r /r :-
  .d |l .l :l ,l .l /s :- |m ,m.f :m .r /d :-

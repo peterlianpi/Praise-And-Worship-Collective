@@ -1,5 +1,6 @@
 Title:86 - NUN DAN KA SIAM TA
 
+Verse
 |s, .s, :s, .l, /d :d |l, .l, :d .d /l, _.s, :
 |m .m :m .m /m :d |s, .s, :d .m /m _.r :
 |s, .s, :s, .l, /d :d |l, .l, :d .d /l, _.s, :

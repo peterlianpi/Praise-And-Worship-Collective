@@ -1,5 +1,6 @@
 Title:113 - KHITUI KAHLEI
 
+Verse
 :s .,s |s :-.s :s .,d |m :-.m :m ,r.d |d :-.d :d .,r |d :-.d
 :d .,d |d.s, :-.d :m .,s |s.m :-.m :m .,s |l____ :-_.l__ :l .,s |s :-
 :s .,s |s :-.s :s .,d |m :-.m :m ,r.d |d :-.d :d .,r |d :-.d

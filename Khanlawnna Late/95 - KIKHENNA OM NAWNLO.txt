@@ -1,5 +1,6 @@
 Title:95 - KIKHENNA OM NAWNLO
 
+Verse
 .m |s .s :l .l /s :- .m |d .d :r .r /m :
 .m |s .s :s .l /s .m :m.m |f .m :r /- :
 .d |m.m :m .m /r.d : .m |r .d :d .l, /s, :

@@ -1,5 +1,6 @@
 Title:68 - KHASUNGAH BUALKHAWM LEENG
 
+Verse
 ,s, .s, |d .d :d .r /m .d :- .d |r .d :d .l, /d :-
 ,s, .s, |d .d :d .r /m .m :- .d |r .r :r .m /r :-
 ,d .d |m .m :m .m /r .d :- .d |r .d :d .l, /d :-

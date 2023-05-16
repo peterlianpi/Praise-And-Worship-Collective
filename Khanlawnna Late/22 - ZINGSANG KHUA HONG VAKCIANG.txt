@@ -1,5 +1,6 @@
 Title:22 - ZINGSANG KHUA HONG VAKCIANG
 
+Verse
 .s, |d :t, .d |r .s, :- .s, |m_.r :m .f |m_.r :
 .d |d :t, .d |r_.d :- .l, |d_,l,.s,:- |- :
 .s, |d :t, .d |r .s, :- .s, |m_.r :m .f |m .d :

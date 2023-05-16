@@ -1,5 +1,6 @@
 Title:106 - ZION TEMBAW
 
+Verse
 ,s,.s,|s, :- .s, /l, :- .d |d :-,t,.l, /s, :-.d |r :- .m /f :m.d
 |- :d /d :-.r |d :- .l, /s, :d |- :m /r :- .l,
 |t, :d /r :- 

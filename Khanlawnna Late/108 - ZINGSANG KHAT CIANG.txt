@@ -1,5 +1,6 @@
 Title:108 - ZINGSANG KHAT CIANG
 
+Verse
 :s, .l, |d :- :d .d /r :d :l, |s, .d :- :- /- :-
 :s, .l, |d :d :- .d /d :r :m.d |r :- :- /- : .m
 :r .m |d :d :- .d /r :d :l, |s, .d :- :- /- :-

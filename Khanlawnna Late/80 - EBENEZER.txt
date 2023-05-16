@@ -1,5 +1,6 @@
 Title:80 - EBENEZER
 
+Verse
 |s, .s, :s, .m, /s, :- |d .d :d .l, /r_.d :
 |m .m :m .m /f_.m :r .d |r .r :r .m /r :
 |m :m /r_.d : |d .d :d .l, /s, :

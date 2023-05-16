@@ -1,5 +1,6 @@
 Title:18 - KA SUNG’H VANGLIATNA OM
 
+Verse
 :s, .l, |d :d /d :s, .d |m :m /m
 :d .m |s .s :s .s /l .s :f .m |r :- /
 :s, .l, |d :d /d :s, .d |m :m /m

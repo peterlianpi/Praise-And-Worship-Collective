@@ -1,5 +1,6 @@
 Title:112 - MUALSANG TUNG KHAT PANIN
 
+Verse
 |d :- .d /d :- .l, |d .l, :s, /- :d |m :- /m :- .s |m :d /- :s
 |s :- .s /s :m |s :- /- :s |s :-.s /s :m |r :- /- :
 |d :d /d :- |d :-.d /d :s, | :d.r /m :-.m |m :-.s /m :d

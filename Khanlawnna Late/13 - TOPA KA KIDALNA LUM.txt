@@ -1,5 +1,6 @@
 Title:13 - TOPA KA KIDALNA LUM
 
+Verse
  .m |d .l, :d .l, /d .d :l,_.s, |- ,d .d :m .r /m .s :m .d 
  | .s :s .s /l .s :m .r |d .d :r .m /r :
  .m |d .l, :d .l, /d .d :l,__.s, |- ,d .d :m .r /m .s :m .d 

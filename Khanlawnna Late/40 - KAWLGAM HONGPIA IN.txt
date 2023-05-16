@@ -1,5 +1,6 @@
 Title:40 - KAWLGAM HONGPIA IN
 
+Verse
  .s, |d :r .r /m :- .m |r :d .t, /l, :-
  .l, |s, :d .d /d :- .d |m :r .d /r :-
  .m |m :m .r /d :- .m |r :d .t, /l, :-

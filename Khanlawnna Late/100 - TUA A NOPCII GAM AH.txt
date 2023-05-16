@@ -1,5 +1,6 @@
 Title:100 - TUA A NOPCII GAM AH
 
+Verse
 :s,.l, |d .d :d .d /m :- .m |r .d :d .r /d
 :d .l, |s, .s, :d .d /m :- .d |r .r :r .m /r
 :d.d |m .s :s .s /m :- .m |r .d :d .r /d

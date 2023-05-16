@@ -1,5 +1,6 @@
 Title:5 - NAKPITAKIN KALUNGDAM THEIHNA
 
+Verse
  :m ,r.m |d ,d .d :d .d /l, .s, :d ,d .d |m .r :m .r /d
  :d .m |s .m :s /- ,s .s :m .d |r :- /
  :m .r |d :- .d /d :l, .d |d :- /-

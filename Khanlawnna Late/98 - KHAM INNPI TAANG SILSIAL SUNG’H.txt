@@ -1,5 +1,6 @@
 Title:98 - KHAM INNPI TAANG SILSIAL SUNG’H
 
+Verse
 :s,.l, |d .d :d .d /m :m .m |r_.d :- .d /d
 :m.s |s .s :s .s /l.s :m .s |s_.r :- /
 $

@@ -1,5 +1,6 @@
 Title:70 - GUPNA BUKIM
 
+Verse
 .d /m .m :m .m /m,m .m :f .r /m :- /- :
 .m /s .s :s .s /s,s .s :l .fe /s :- /- :
 .d /m .m :m .m / ,m .m :f .r /m___ :-_.r__ /d :-

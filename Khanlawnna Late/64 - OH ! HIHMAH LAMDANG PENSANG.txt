@@ -1,5 +1,6 @@
 Title:64 - OH ! HIHMAH LAMDANG PENSANG
 
+Verse
 :s .s /s :- .s :s /s :m :r /m .s :- :- /- :
 :d’ /d :- .d’ :d’ /d’ :t :l /s :- :- /- :
 :s .s /r’ :- .r’ :r’ /r’ :d’ :r’ /m’ :- :m’.r’ /d’ :-

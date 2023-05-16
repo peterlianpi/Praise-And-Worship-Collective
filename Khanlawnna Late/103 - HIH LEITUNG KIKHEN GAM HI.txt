@@ -1,5 +1,6 @@
 Title:103 - HIH LEITUNG KIKHEN GAM HI
 
+Verse
 |s, .s, :- .s, /l, :s, |m .m :m .m /m :-
 |r .r :- .d /t, .d :r |d .t, :d .r /m :-
 |l, .l, :- .l, /d :f |m .m :m .d /s, :-

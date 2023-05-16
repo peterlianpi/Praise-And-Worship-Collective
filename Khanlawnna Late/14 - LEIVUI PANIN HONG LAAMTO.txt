@@ -1,5 +1,6 @@
 Title:14 - LEIVUI PANIN HONG LAAMTO
 
+Verse
 :s, .l, |d .d :m .r /d :m .s |l .l :l .s /l
 :l .s |m .m :m .r /m :m .r |d :s, .l, /d .r :d .s |m :- /-
 :s, .l, |d .d :m .r /d :m .s |l .l :l .s /l

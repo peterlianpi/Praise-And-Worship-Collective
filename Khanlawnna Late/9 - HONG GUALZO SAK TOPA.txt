@@ -1,5 +1,6 @@
 Title:9 - HONG GUALZO SAK TOPA
 
+Verse
  :m ,r .m |d .d :d .d /m :r ,m .r |d .d :d .r /d
  :d ,r .m |s .s :l .s /m .m :r .d |r :- /-
  :m ,r .m |d .d :d .d /m :r ,m .r |d .d :d .r /d

@@ -1,5 +1,6 @@
 Title:97 - TUA A ETLAWM KHAM KHUAPI SUNGAH
 
+Verse
 :m,r.m |d :r .m /d :m .r |d .l, :d .d /d
 :m,r.m |d :d .r /m :r .m |s :- /
 :s .s |s :m .f /s :m .d |mr :d .d /d

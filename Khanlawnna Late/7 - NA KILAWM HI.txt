@@ -1,5 +1,6 @@
 Title:7 - NA KILAWM HI
 
+Verse
  :s, .l, |d : .d /d .d :m .f |s :- /- 
  :m .f |s :- .s /l .s :m .d |r :- /-
  :s, .l, |d : .d /d .d :m .f |s :- /-

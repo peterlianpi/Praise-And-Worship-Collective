@@ -1,5 +1,6 @@
 Title:94 - KHAM KONGZING AH
 
+Verse
 .s:l .m |s :- .s /l .m :s .s |f :- /-
 .r|r .r |s :- .f /m .r :d .l |s :- /-
 .s:l .m |s :- .s /l .m :s .s |f :- /-

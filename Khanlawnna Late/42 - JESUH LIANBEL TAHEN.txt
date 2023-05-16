@@ -1,5 +1,6 @@
 Title:42 - JESUH LIANBEL TAHEN
 
+Verse
 :m,r .m |d .d,s, :d .d /m :m .m |r__.d :d /l,__.s,
 :d .d |m :s /l .s :m .d |r :- /-
 :m,r .m |s .m_,r :d ,d.d /m :m .m |r__.d :d /l,__.s,

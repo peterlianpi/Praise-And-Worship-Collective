@@ -1,5 +1,6 @@
 Title:46 - THUHOIH LE THUPHA TAWH ZO TAWNTUNGIN
 
+Verse
 :m .f |s :- .s /m :m .r |d :- .t, /l, :-
  .l, |s, :d .d /m.m :r .d |r :- /-
 :m .f |s :- .s /m :m .r |d :- .t, /l, :-

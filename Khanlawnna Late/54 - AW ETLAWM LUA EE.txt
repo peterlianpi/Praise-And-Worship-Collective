@@ -1,5 +1,6 @@
 Title:54 - AW ETLAWM LUA EE
 
+Verse
 .s, :s, .s, |d :d /r :r |m :- .r /d .d 
  :d .,l, |s, :- /- .s, :s,.t, |r :r /m .f 
  :m .r |d :- /-

@@ -1,5 +1,6 @@
 Title:87 - KA TENNA DING INNPI NUAM
 
+Verse
 .s, |d .d :d ,r .d /m : .m |r .d :d .l, /s,:
 .s, |d .d :d ,r .m /d : .m |r .r :r .m /r :
 .m |s .s :s .m /d : .m |r .d :d .l, /s,:

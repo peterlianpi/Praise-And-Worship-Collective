@@ -1,5 +1,6 @@
 Title:4 - TOPAҠTUNGAH LUNGDAM KA KO DING
 
+Verse
  :s, .l, |d :d /- .d :d .r | m .d :m /-
  :m .m |r .d :d .d /r .d :l, .d | l, .s :- /-
  :s, .l |d :d /- .d :m .s |s :m /-

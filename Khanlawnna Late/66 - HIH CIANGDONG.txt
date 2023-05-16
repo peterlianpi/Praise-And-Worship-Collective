@@ -1,5 +1,6 @@
 Title:66 - HIH CIANGDONG
 
+Verse
 .s,|m :m :f /m ,r.d :- :d .l, |s,.s, :- :- /- :- :-
 .s,|r :r :r /f :m,r.- :- ,m .r |d :- :- /- :- :-
 .s,|m :m :f /m,r.d :- :d .l, |s, .s, :- :- /- :- :-

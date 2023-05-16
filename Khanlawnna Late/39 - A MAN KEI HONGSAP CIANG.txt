@@ -1,5 +1,6 @@
 Title:39 - A MAN KEI HONGSAP CIANG
 
+Verse
  :m .f |m :- .r /d :- .d |r .d :- .l /s, :-
  .s, |d :- .d /m :r .d |r :- /-
  :m .f |m :- .r /d :- .d |r .d :- .l /s, :-

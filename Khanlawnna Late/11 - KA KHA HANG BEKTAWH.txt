@@ -1,5 +1,6 @@
 Title:11 - KA KHA HANG BEKTAWH
 
+Verse
  :m .r |d .d :d .d /d :m .f |s .s :s .s /s
  :m .r |d :- ,d.d /f :m |r :- /-
  :m .r |d .d :d .d /d :m .f |s .s :s .s /s

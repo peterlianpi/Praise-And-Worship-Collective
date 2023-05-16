@@ -1,5 +1,6 @@
 Title:90 - VAN HAUHNA KEI A HIZO
 
+Verse
 :s, .l, |d :- .d :d .d /m :- :m.m |r _.d :- .d :f, .l, /s, :
 :s, .l, |d :- :m.d /r :
 :s, .l, |d :- .d :d .d /m .s :- :m.m |r_ .d :- .d :f, .l, /s, : .s,

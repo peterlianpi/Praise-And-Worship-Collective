@@ -1,5 +1,6 @@
 Title:52 - NANGTAWH LOIN
 
+Verse
 . s, |m :- :m .r /d :d :- .d |f :- :f .m /r :r :-
 . s, |s :- :l .s /m :- :r .d |m :r :- /- :- :-
 . s, |m :- :m .r /d :d :- .d |f :- :f .m /r :r :-

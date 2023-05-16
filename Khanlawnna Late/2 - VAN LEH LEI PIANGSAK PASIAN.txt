@@ -1,5 +1,6 @@
 Title:2 - VAN LEH LEI PIANGSAK PASIAN
 
+Verse
  :s, .l |d :d .d /l, .s, :d .d |m :m .m /r .d
  :m .s |s :s .s /l .s :m .s |s :- /
  :s, .l |d :d .d /l, .s, :d .d |m :m .m /r .d

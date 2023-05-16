@@ -1,5 +1,6 @@
 Title:85 - NITAANG SUNGAH OM DIH IN
 
+Verse
  :s, .l, |d :r .m /r .d :d .l, |s, :- /-
  :d .m |s :s .l /m .d :- .m |r :- /-
  :r .m |f :f .f /s .s :l .s |m___ :-_.r__ /d

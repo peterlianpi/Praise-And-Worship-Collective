@@ -1,5 +1,6 @@
 Title:88 - THUPHA GAMNUAM SUNG
 
+Verse
 :d.r |m .m :m .m /m .m :r .m |r .d :d .r /d
 :d.r |m .m :m .m /m :d .d |r ,r .r :r .m /r
 :d.r |m .m :m .m /m .m :r .m |r .d :d .r /d

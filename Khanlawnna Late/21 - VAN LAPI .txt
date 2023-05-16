@@ -1,5 +1,6 @@
 Title:21 - VAN LAPI 
 
+Verse
 |d .d :d .l, |d .d :s, |m ,m .r :d .l, |d :- .m|
 s .s :s .m |m :r .d |r .r :m .r |t,_,l,_.s, :-|
 d .d :d .l, |d .d :m |m .r :d .l, |d :- .m|

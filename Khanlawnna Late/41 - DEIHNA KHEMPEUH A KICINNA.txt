@@ -1,5 +1,6 @@
 Title:41 - DEIHNA KHEMPEUH A KICINNA
 
+Verse
  :m .f |s.s :l .s /s.m :-.d |r.d :d.l, /s,
  :d .r |m.m :m .m /l.s :s.m |r :- /-
  $ :m .f |s.s :l .s /s.m :-.d |r.d :d.l, /s,

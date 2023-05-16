@@ -1,5 +1,6 @@
 Title:55 - BETLEN KHUANEU MITE
 
+Verse
  |d .d :d .r /m .m :- .d |r .d :d .l, /s, :-
  |m .m :m .m /s .s :f .m |r :- /- :
  |s .s :s .m /f .m :r .d |f :- /- :

@@ -1,5 +1,6 @@
 Title:59 - A BEI-THEILO HEHPIHNA
 
+Verse
 :s, .l, |d :d /- :m .r |d :m / :m .r 
  |d :-.r /d :l, |s, :- / :s, .l,
  |d :d /- :m .r |d :m / :d .d 

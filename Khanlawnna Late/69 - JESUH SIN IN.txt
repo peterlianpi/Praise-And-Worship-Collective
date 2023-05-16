@@ -1,5 +1,6 @@
 Title:69 - JESUH SIN IN
 
+Verse
  :m .r |d :- .r /m .s :t .l |s :m /-
  :f .m |r :- .r /r s :r .r |m :- /-
  :m .r |d :- .r /m .s :t .t |l :d’ /-

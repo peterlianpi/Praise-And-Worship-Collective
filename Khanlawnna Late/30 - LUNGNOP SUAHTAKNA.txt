@@ -1,5 +1,6 @@
 Title:30 - LUNGNOP SUAHTAKNA
 
+Verse
 |s :s .s /l :s .m |s .m :- .r /d :-|
 d :d .d /r :r .d |r .m :- .f /s :-|
 s :s .s /l :s .m |s .m :- .r /d :-|

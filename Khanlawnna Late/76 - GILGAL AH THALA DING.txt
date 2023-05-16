@@ -1,5 +1,6 @@
 Title:76 - GILGAL AH THALA DING
 
+Verse
 |m, .s, :s, .s, /l, :s, |l, .d :d .d /r :d
 |m .m :m .m /m :d .l, |s, :- /- :
 |m, .s, :s, .s, /l, :s, |l, .d :d .d /r :d

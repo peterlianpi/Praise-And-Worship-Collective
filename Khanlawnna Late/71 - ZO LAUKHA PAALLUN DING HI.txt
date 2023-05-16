@@ -1,5 +1,6 @@
 Title:71 - ZO LAUKHA PAALLUN DING HI
 
+Verse
 :s, .s, |s, :- .s, :l, .d |l, :s, 
 :d .d |t, :- .t, :d .r |r :d 
 :s, .s, |l :- .d :t, .l, |s, :d 

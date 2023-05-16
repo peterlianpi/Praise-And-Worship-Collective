@@ -1,5 +1,6 @@
 Title:118 - TOPA AW KONG MUANG HI
 
+Verse
 :s.l |s :- :m.f |m :- :r .d |r :d :- .l, |s, :
 :s,.l, |d :d :m.r |d :- :d .r |m :r :d |r :
 :s.l |s :- :m.f |m :- :r .d |r :d :- .l, |s, :
